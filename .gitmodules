@@ -1,0 +1,6 @@
+[submodule "akka-examples"]
+	path = akka-examples
+	url = git@github.com:dosht/akka-examples.git
+[submodule "spark-examples"]
+	path = spark-examples
+	url = git@github.com:dosht/spark-examples.git
